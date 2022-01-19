@@ -1,0 +1,38 @@
+Exploratory Testing
+Summary
+Take some time to explore the app and find your selectors. We’ll use this time to prep for both manual and automation tests.
+
+App Overview
+This is an app that can hold character information. Users should be able to view all characters or one character at a time. Characters can be deleted from the list. Users should also be able to add characters. When adding a character, only 3 “likes” will be saved. Using the form on the left, users can get back characters over a certain age.
+
+Steps
+1.In your lab folder, create a file for notes.
+
+2.As you explore the app, take note of things you notice. Try to find some user flows. Formulate ideas of what you want to test.
+
+3.As you’re figuring out your tests, also take note of what selectors you might use to get the UI elements for automation later.
+
+This is an app that can hold character information. Users should be able to view all characters or one character at a time. Characters can be deleted from the list. Users should also be able to add characters. When adding a character, only 3 “likes” will be saved. Using the form on the left, users can get back characters over a certain age.
+
+we can create a character with just using name.
+if we want to delete it ,delete button does not work.
+
+we can create a character using 000 age.
+it also does not deleted.
+
+when we click the character it will show at the buttom of the page.
+
+Questions
+Answer the questions below in the file where you kept your exploratory notes.
+
+1.What is the primary purpose for quality assurance?
+-->uality assurance (QA) is a way of preventing mistakes and defects in manufactured products and avoiding problems when delivering products or services to customers
+
+2.How can using acceptance criteria improve the overall quality of an application?
+--->Acceptance criteria synchronize the visions of the client and the development team.
+
+3.Why is planning such an important part of the testing process?
+--->A comprehensive approach to testing can reduce risk while finding problems earlier, which reduces time to fix, time to market, and overall cost. 
+
+4.Why is it important to have clear steps to reproduce a bug included in a bug report?
+--->This should explain all about what comes in the bug. The Bug title should be suggestive enough that the reader can understand it. A clear bug title makes it easy to understand and the reader can know if the bug has been reported earlier or has been fixed.
